@@ -1,0 +1,10 @@
+﻿Devo testar o código de configuração?
+========================================
+
+- Sim, claro!
+  - todo código deve ser testado
+  - mas... depende de como é o seu código
+
+- Prioridade
+  - teste o que importa
+  - seu config sofre muitas alterações?
